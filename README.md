@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Gohst101
+- 👀 I’m interested in Javascript and Discord Bots
+- 🌱 I’m currently learning Javascript ㄟ( ▔, ▔ )ㄏ
+- 📫 How to reach me: Per Discord: gohst4108
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: Im human
