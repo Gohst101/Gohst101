@@ -19,14 +19,13 @@ E-Mail: contact@ghost-exe.de
 ### Ghost.exe Discord Bot 🤖 - Made with JavaScript
 
 #### What can it do?
-Every Feature of the Discord Bot will be managable by the Website: https://discord.ghost-exe.de
-The Ghost.exe Discord Bot has many Features like:
-
+Every Feature of the Discord Bot will be managable by the Website: https://discord.ghost-exe.de \
+The Ghost.exe Discord Bot has many Features like:\
+\
 INFO: Everything with an ! befor is not necessary to enter.
 
 
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fdiscord.ghost-exe.de&up_message=Ghost.exe&style=for-the-badge)\
 [![Discord](https://img.shields.io/discord/1310338591150444585?style=for-the-badge&logo=discord&logoColor=blue&label=Discord)](https://discord.gg/xAEqdQaErM)
 
 
@@ -49,11 +48,9 @@ INFO: Everything with an ! befor is not necessary to enter.
 - TicTacToe - /tictactoe start
 - Counting Game - The Community Counts higher and higher!
 
-##### For the Future..
+##### For the Future - 🔥
 - Giveaway Feature
 - Auto Role on Join
 - Reaction Role - Creates a Message where Users can react to get certen Roles
 - Leaderboard - Shows the Top 3 Communitys Stats in the Category Fun --> Games
 - Notes
-
-- Website
