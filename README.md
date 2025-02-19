@@ -16,14 +16,14 @@ E-Mail: contact@ghost-exe.de
 ![Ghost.exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gohst101&show_icons=true&theme=dracula)
 
 ## Projects - 💻
-### Ghost.exe Discord Bot 🤖 - Made with JavaScript
+### Ghost.exe Discord Bot 🤖 - Made with Node.js
 
 #### What can it do?
-Every Feature of the Discord Bot will be managable by the Website: https://discord.ghost-exe.de \
+The bot has a web dashboard to manage modules:\
+https://discord.ghost-exe.de/ (Coming Soon™ - WIP)\
 The Ghost.exe Discord Bot has many Features like:\
 \
-INFO: Everything with an ! befor is not necessary to enter.
-
+INFO: Everything with an ! befor is an optional argument.
 
 
 [![Discord](https://img.shields.io/discord/1310338591150444585?style=for-the-badge&logo=discord&logoColor=blue&label=Discord)](https://discord.gg/xAEqdQaErM)
