@@ -1,7 +1,7 @@
 # Hey there! Are you lost? - 👻
 
 ## About me - 😀
-My name is Heinke and I am 15 years old.\
+My name is Heinke and I am 15 years old Developer.\
 I am the creator of Ghost.exe, a Discord bot to easily manage your server.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fghost-exe.de%2Fportfolio&down_message=Portfolio&style=for-the-badge&label=See%20my)](https://ghost-exe.de/portfolio.html)
