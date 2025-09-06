@@ -20,7 +20,7 @@ E-Mail: contact@ghost-exe.de
 
 #### What can it do?
 The bot has a web dashboard to manage modules:\
-https://discord.ghost-exe.de/ (Coming Soon™ - WIP)\
+https://ghost-exe.de/ (Coming Soon™ - WIP)\
 The Ghost.exe Discord Bot has many Features like:\
 \
 INFO: Everything with an ! befor is an optional argument.
