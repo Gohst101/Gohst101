@@ -28,29 +28,4 @@ INFO: Everything with an ! befor is an optional argument.
 
 [![Discord](https://img.shields.io/discord/1310338591150444585?style=for-the-badge&logo=discord&logoColor=blue&label=Discord)](https://discord.gg/xAEqdQaErM)
 
-
-##### Moderation - 🔨
-- Ban - /ban <user> <!reason>
-- Unban - /unban {user}
-- Kick - /kick {user} {!reason}
-- Timeout - /timeout {user} {time} {!reason}
-- Warn - /warn {user} {reason}
-- Unwarn - /unwarn {user}
-- Clear - /clear {amount} {!fromUser}
-
-##### Functions - ⚙
-- Verify - To make sure your Members are Humen :o
-- Welcomer - Welcomes Members if they Join your Server
-- Ticket System - Easy to use :3
-
-##### Fun - ✨
-- Coinflip - /coinflip
-- TicTacToe - /tictactoe start
-- Counting Game - The Community Counts higher and higher!
-
-##### For the Future - 🔥
-- Giveaway Feature
-- Auto Role on Join
-- Reaction Role - Creates a Message where Users can react to get certen Roles
-- Leaderboard - Shows the Top 3 Communitys Stats in the Category Fun --> Games
-- Notes
+#### Here is no information about the commands because it is currently under development :|
