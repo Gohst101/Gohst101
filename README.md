@@ -1,19 +1,19 @@
 # Hey there! Are you lost? - 👻
 
 ## 👨‍💻 About Me
-Hi, I'm **Heinke**, a **16-year-old developer** currently in school.  
+Hi, I'm **Heinke**, a **16 year old developer** currently in school.  
 I enjoy building practical software and working on side projects in my free time.
 
 One of my main projects is **ATOMNI**, an **open-source school software** designed to simplify and modernize school workflows.
-Additionally, I’m developing a **free-to-use Discord bot**, focused on performance, reliability, and ease of use.
+Additionally, I’m developing a **free to use Discord bot**, focused on performance, reliability, and ease of use.
 
 I’m always learning, experimenting, and improving my skills through real projects.
 
 ---
 
 ## 🚀 Projects
-- **ATOMNI** – Open-source school software with many features  
-- **Discord Bot** – Free, public bot with ongoing development
+- **ATOMNI** - Open-source school software with many features  
+- **Discord Bot** - Free, public bot with ongoing development
 
 ---
 
