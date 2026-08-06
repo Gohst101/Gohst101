@@ -1,7 +1,7 @@
 # Hey there! Are you lost? - 👻
 
 ## 👨‍💻 About Me
-Hi, I'm **Heinke**, a **16 year old developer** currently in school.  
+Hi, I'm **Heinke**, a **17 year old developer** currently in school.  
 I enjoy building practical software and working on side projects in my free time.
 
 One of my main projects is **IoT-Railstation**, an **open-source train controll software** designed to simplify and modernize Play Traintracks.
