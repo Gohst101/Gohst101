@@ -6,6 +6,7 @@ I enjoy building practical software and working on side projects in my free time
 
 One of my main projects is **IoT-Railstation**, an **open-source train controll software** designed to simplify and modernize Play Traintracks.
 Additionally, I’m developing a **free to use Discord bot**, focused on performance, reliability, and ease of use.
+As a side hustle, I occasionally work on projects involving microcontrollers and upload them here to my GitHub.
 
 I’m always learning, experimenting, and improving my skills through real projects.
 
